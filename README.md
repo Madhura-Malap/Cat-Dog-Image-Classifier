@@ -81,12 +81,7 @@ The system displays:
 
 ## 📸 Project Preview
 
-Add screenshots after uploading them to the repository.
-
-```md
 ![Prediction Results](cat_dog.jpeg)
-
-```
 
 ---
 
